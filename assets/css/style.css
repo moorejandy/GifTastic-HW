@@ -4,3 +4,28 @@ form,
 input {
   margin: 10px;
 }
+
+body {
+    background-color: #558dca;
+    /* font-family: 'PT Sans Narrow', sans-serif; */
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+#buttons-view {
+    text-align: center;
+}
+
+.jumbotron {
+    padding: 0%;
+    background-color: #022449;
+    color: gainsboro;
+    text-align: center;
+}
+
+#gif-view {
+    padding: 15px;
+}
+
+button, #add-gif, #gif-input {
+    background-color: #f27d42; 
+}

@@ -1,5 +1,5 @@
 
-    var topics = ["Trees", "Mountains", "Rivers", "Birds"];
+    var topics = ["Trees", "Mountains", "River", "Birds"];
 
     // displayMovieInfo function re-renders the HTML to display the appropriate content
     function displayNatureInfo() {  
@@ -82,7 +82,7 @@
         console.log(topics);
 
     //empty value from text box after button is created
-    
+
         $("#gif-input").val("");
       // Calling renderButtons which handles the processing of topics array
       renderButtons();
