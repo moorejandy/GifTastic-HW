@@ -5,7 +5,7 @@
 -HTML, CSS, JavaScript, jQuery, bootstrap, ajax, Font Awesome
 
 ![](assets/images/image1.png)
-- Selectex the Trees button
+- Selected the Trees button
 
 ![](assets/images/image2.png)
 - Gifs populated with ten tree items from Giphy API
