@@ -5,11 +5,13 @@
 -HTML, CSS, JavaScript, jQuery, bootstrap, ajax, Font Awesome
 
 ![](assets/images/image1.png)
+- Selectex the Trees button
 
 ![](assets/images/image2.png)
+- Gifs populated with ten tree items from Giphy API
 
 ![](assets/images/image3.png)
-
-![](assets/images/image4.png)
+- Added Bees button by typing into input field and selecting 'add topic'
 
 ![](assets/images/image5.png)
+- Selected new Bees botton and showing gifs
