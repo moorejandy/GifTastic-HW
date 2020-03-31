@@ -1,7 +1,7 @@
 
     var topics = ["Trees", "Mountains", "River", "Birds"];
 
-    // displayMovieInfo function re-renders the HTML to display the appropriate content
+    // displayNatureInfo function re-renders the HTML to display the appropriate content
     function displayNatureInfo() {  
     var nature = $(this).attr("data-nature");
     var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + nature + "&apikey=CT4Y47BalJjJcdIaWaJaqo7sMAE7U6Go&limit=10&offset=0&rating=G&lang=en";
@@ -105,8 +105,6 @@
                 $(this).attr("data-state", "still");
               }
       });
-
-
 
     // Calling the renderButtons function to display the intial buttons
     renderButtons();
