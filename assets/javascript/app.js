@@ -4,7 +4,7 @@
     // displayNatureInfo function re-renders the HTML to display the appropriate content
     function displayNatureInfo() {  
     var nature = $(this).attr("data-nature");
-    var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + nature + "&apikey=CT4Y47BalJjJcdIaWaJaqo7sMAE7U6Go&limit=10&offset=0&rating=G&lang=en";
+    var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + nature + "&api_key=IFAxq8opTcedsUg08bIMHo8n1O9x8yU5&limit=10&offset=0&rating=G&lang=en";
 
     //   Creates AJAX call for the specific button being clicked
     
